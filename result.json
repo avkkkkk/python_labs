@@ -1,0 +1,10 @@
+{
+    "system": "Windows-11-10.0.26200-SP0",
+    "release": "11",
+    "version": "10.0.26200",
+    "hostname": "avkbook",
+    "python_version": "3.12.0",
+    "interpreter_path": "C:\\dev\\Python\\pythonProject3\\.venv\\Scripts\\python.exe",
+    "cpu_count": 16,
+    "username": "Mi"
+}
