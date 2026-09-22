@@ -3,7 +3,6 @@ import platform
 import sys
 import os
 import getpass
-import uuid
 
 result = {
     "system": platform.platform(),
